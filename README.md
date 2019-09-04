@@ -8,6 +8,8 @@ unzip controlP5-2.2.6.zip -d libraries
 
 # Demo
 
+![Demo GIF](http://www.giphy.com/gifs/YSYUhQGAqji1FsVw74)
+
 # Credits
 
 - [ControlP5](https://github.com/sojamo/controlp5)
