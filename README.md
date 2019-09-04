@@ -1,3 +1,7 @@
+# Circle Illusion
+
+A demonstration of the "circle illusion" wherein a bunch of objects moving along strictly linear paths end up looking like a rotating circle.
+
 # Installation
 
 ```
