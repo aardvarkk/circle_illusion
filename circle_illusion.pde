@@ -58,7 +58,7 @@ void restore_defaults() {
 }
 
 void setup() {
-  size(w+control_w, h);
+  size(600, 400); // w + control_w, h
   cp5 = new ControlP5(this);
   
   int i = 0;
