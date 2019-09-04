@@ -8,7 +8,7 @@ unzip controlP5-2.2.6.zip -d libraries
 
 # Demo
 
-![Demo GIF](http://www.giphy.com/gifs/YSYUhQGAqji1FsVw74)
+![Demo GIF](https://media.giphy.com/media/YSYUhQGAqji1FsVw74/source.mp4)
 
 # Credits
 
